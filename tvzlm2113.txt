@@ -1,4 +1,4 @@
-｜央视频道,#genre#
+央视频道,#genre#
 CCTV-1综合,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
 CCTV-1综合,http://39.134.115.221:8080/PLTV/88888910/224/3221225630/index.m3u8
 CCTV-1综合,http://39.134.115.221:8080/PLTV/88888910/224/3221225642/index.m3u8
@@ -147,9 +147,7 @@ CCTV-15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225
 CCTV-16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV-4,http://jycb.f3322.net:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-📡｜卫视频道,#genre#
+卫视频道,#genre#
 北京卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/beijingHD/__op/default/__f//index.m3u8
 北京卫视,http://125.210.152.19:9120/live/hzgq-bjgqws-h264.m3u8
 北京卫视,http://115.149.139.141:10001/tsfile/live/1022_1.m3u8
@@ -191,9 +189,6 @@ CCTV-5+,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&a
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
 江苏卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225743/index.m3u8
 江西卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/jiangxiHD/__op/default/__f//index.m3u8
-江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8?
-
-icpid=88888888&from=30&hms_devid=1452
 江西卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/jiangxiHD/__op/default/__f//index.m3u8
 江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
 江西卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225746/index.m3u8
